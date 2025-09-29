@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=David-Ogrande&color=006bed)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9210--0882-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9210-0882)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsousabraga/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/davidjosebraga/)
 [![Figma](https://img.shields.io/badge/Figma-View%20Portfolio-blue?style=flat&logo=figma&logoColor=white)](https://www.figma.com/team_invite/redeem/cERF6NHvbDZW4Yxun8iTuv)
 
 # 👋 About Me
@@ -35,13 +37,17 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)]()
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)]()
 
 ### 🗄️ Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/Redis-D9281A?style=flat&logo=redis&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)]()
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)]()
+
 
 ### 🧪 Utilities
 
@@ -79,6 +85,7 @@ Feel free to explore the repositories and see what we’re building.
 ## 📬 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-David--Ogrande-181717?style=flat&logo=github&logoColor=white)](https://github.com/David-Ogrande)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidsousabraga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsousabraga/)
 
 ---
 
