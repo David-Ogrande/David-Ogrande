@@ -6,7 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=David-Ogrande&color=006bed)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9210--0882-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9210-0882)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsousabraga/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/davidjosebraga/)
 [![Figma](https://img.shields.io/badge/Figma-View%20Portfolio-blue?style=flat&logo=figma&logoColor=white)](https://www.figma.com/team_invite/redeem/cERF6NHvbDZW4Yxun8iTuv)
 
 # 👋 About Me
